@@ -55,81 +55,17 @@
             <footer class="footer  ">
                <div class="footer__top">
                   <div class="container footer__container">
-                     <div class="footer__about">
-                        <siteAppFooter>
-                           <div class="footer__apps">
-                              <div class="footer__apps_img_container"><img alt="img-mob-device" class="footer__apps_device" src="https://ruangguru.imgix.net/png/footer-phone-icon.png?auto=enhance%2Cformat%2Ccompress&amp;"/></div>
-                              <div class="footer__apps_badges_container">
-                                 <div class="footer__apps_caption">Download GRATIS Aplikasi Ruangguru sekarang juga!</div>
-                                 <div class="app-badges"><a href="https://play.google.com/store/apps/details?id=com.ruangguru.livestudents&amp;hl=in" class="app-badges__item"><img src="https://ruangguru.imgix.net/png/badge-google-play.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="google play"/></a><a href="https://itunes.apple.com/id/app/ruangguru-solusi-belajar/id1099742206?l=id&amp;mt=8" class="app-badges__item"><img src="https://ruangguru.imgix.net/png/badge-app-store.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="app store"/></a></div>
-                              </div>
-                           </div>
-                        </siteAppFooter>
-                     </div>
-                  </div>
-                  <div class="container undefined">
-                     <div class="footer__line"></div>
-                  </div>
-                  <div class="container footer__container">
-                     <div class="site-maps">
-                        <div class="site-map site-maps__item">
-                           <div class="site-map__legend">Tentang Ruangguru</div>
-                           <ul class="list site-map__list">
-                              <li class="list__item site-map__list_item"><span><a class="link list__link" href="/general/about">Tentang Kami</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://career.ruangguru.com" class="list__link">Karir</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a class="link list__link" href="/help/student">Bantuan</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a class="link list__link" href="/general/contact">Kontak Kami</a></span></li>
-                           </ul>
-                        </div>
-                        <div class="site-map site-maps__item">
-                           <div class="site-map__legend">Paket Digital Bootcamp Terpopuler</div>
-                           <ul class="list site-map__list">
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/rgdigitalbootcamp/" class="list__link">UN SMA + SBMPTN</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/rgdigitalbootcamp/" class="list__link">UN SMP</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/rgdigitalbootcamp/" class="list__link">SBMPTN (3 bulan)</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/rgdigitalbootcamp/" class="list__link">UN SD</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/rgdigitalbootcamp/" class="list__link">Kelas X</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/rgdigitalbootcamp/" class="list__link">Kelas XI</a></span></li>
-                           </ul>
-                        </div>
-                        <div class="site-map site-maps__item">
-                           <div class="site-map__legend">Guru RuangLes Terfavorit</div>
-                           <ul class="list site-map__list">
-                              <li class="list__item site-map__list_item"><span><a href="/search?jenjang=sma&amp;lessons=matematika%20sma&amp;locations=kota%20jakarta%20selatan&amp;page=1" class="list__link">Les Privat Matematika</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="/search?jenjang=sma&amp;lessons=fisika%20sma&amp;locations=kota%20jakarta%20selatan&amp;page=1" class="list__link">Les Privat Fisika</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="/search?jenjang=sma&amp;lessons=kimia%20sma&amp;locations=kota%20jakarta%20selatan&amp;page=1" class="list__link">Les Privat Kimia</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="/search?jenjang=sma&amp;lessons=bahasa%20inggris%20sma&amp;locations=kota%20jakarta%20selatan&amp;page=1" class="list__link">Les Privat Bahasa Inggris</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="search?jenjang=bahasa&amp;lessons=toefl%20itp%20standardized%20test&amp;locations=kota%20jakarta%20selatan&amp;page=1" class="list__link">Les Privat TOEFL</a></span></li>
-                           </ul>
-                        </div>
-                        <div class="site-map site-maps__item">
-                           <div class="site-map__legend">Lainnya</div>
-                           <ul class="list site-map__list">
-                              <li class="list__item site-map__list_item"><span><a href="http://blog.ruangguru.com/" class="list__link">Blog Ruangguru</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a class="link list__link" href="/press">Press kit</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a class="link list__link" href="/other/privacy-policy">Kebijakan Privasi</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a class="link list__link" href="/other/terms-conditions">Syarat dan Ketentuan</a></span></li>
-                              <li class="list__item site-map__list_item"><span><a href="https://marketing.ruangguru.com/beingteacher" class="list__link">Menjadi Guru</a></span></li>
-                           </ul>
-                        </div>
-                        <div class="site-map site-maps__item site-map__item_sosmed">
-                           <div class="site-map__legend">Ikuti Kami Di</div>
-                           <ul class="list site-map__list">
-                              <li class="list__item site-map__list_item"><a target="_blank" href="https://www.facebook.com/ruanggurucom/" class="list__link list__link-img"><img src="https://ruangguru.imgix.net/png/icon-facebook.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/></a></li>
-                              <li class="list__item site-map__list_item"><a target="_blank" href="https://twitter.com/ruangguru/" class="list__link list__link-img"><img src="https://ruangguru.imgix.net/png/icon-twitter.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/></a></li>
-                              <li class="list__item site-map__list_item"><a target="_blank" href="https://instagram.com/ruangguru/" class="list__link list__link-img"><img src="https://ruangguru.imgix.net/png/icon-instagram.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/></a></li>
-                              <li class="list__item site-map__list_item"><a target="_blank" href="https://www.youtube.com/channel/UCbc1RY0McnikiEMD8Box5Ig" class="list__link list__link-img"><img src="https://ruangguru.imgix.net/png/icon-youtube.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/></a></li>
-                              <li class="list__item site-map__list_item"><a target="_blank" href="https://line.me/R/ti/p/%40ruangguru" class="list__link list__link-img"><img src="https://ruangguru.imgix.net/png/icon-line.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/></a></li>
-                           </ul>
-                        </div>
+                     <div class="site-maps"> 
                      </div>
                   </div>
                </div>
                <div class="footer__bottom">
                   <div class="container footer__container">
                      <div class="row">
-                        <div class="footer__bottom_div text-left"><span class="footer__bottom-text">KONTOL ANJING</span></div>
-                        <div class="footer__bottom_div text-right"><span class="footer__bottom-text"></span><span class="footer__bottom-space"></span><span class="footer__bottom-text"><img src="https://ruangguru.imgix.net/svg/phone.svg?auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="footer__bottom-icon"/>+6221 2854 3000 (10:00-21:00 WIB)</span></div>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fas fa-globe"></i></a>
                      </div>
                   </div>
                </div>
@@ -139,5 +75,6 @@
       </div>
       <script type="text/javascript" src="{{asset('css/js.js')}}"></script><script src="/static/js/7.a8840dfe.chunk.js"></script>
        <script type="text/javascript" src="{{asset('css/jquery.js')}}"></script><script src="/static/js/7.a8840dfe.chunk.js"></script>
+       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
    </body>
 </html>
