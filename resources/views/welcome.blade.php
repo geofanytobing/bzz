@@ -1,8 +1,11 @@
 @extends('layouts.user')
 @section('content')
+<br>
+<br>
 
-   <section>
-                 <div class="slideshow-container">
+<section>
+
+<div class="slideshow-container">
 
 <div class="mySlides fade">
   <img src="{{asset('images/capstone.jpeg')}}" style="width:100%; height: 80vh;">
@@ -39,14 +42,6 @@
                            <div class="home_ruangbelajar-desktop__line"></div>
                            <div class="home_ruangbelajar-desktop__title">Akses ruangbelajar jadi lebih nyaman</div>
                            <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu-tunggu kini sudah hadir! Gunakan ruangbelajar di PC atau laptop kamu. Belajar kini lebih nyaman dengan layar yang lebih besar.</div>
-                           <a class="home_ruangbelajar-desktop__lading-page-link" href="/belajar_desktop">
-                              Pelajari Selengkapnya
-                              <svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" ize="12px" style="vertical-align:middle">
-                                 <g>
-                                    <path d="m26.3 21.4q0 0.3-0.2 0.5l-10.4 10.4q-0.3 0.3-0.6 0.3t-0.5-0.3l-1.1-1.1q-0.2-0.2-0.2-0.5t0.2-0.5l8.8-8.8-8.8-8.7q-0.2-0.3-0.2-0.6t0.2-0.5l1.1-1.1q0.3-0.2 0.5-0.2t0.6 0.2l10.4 10.4q0.2 0.2 0.2 0.5z"></path>
-                                 </g>
-                              </svg>
-                           </a>
                         </div>
                         <div class="home_ruangbelajar-desktop__second-content"><img src="https://ruangguru.imgix.net/png/home_ruangbelajardesktop-section-mobile.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="ruangbelajar desktop image" class="home_ruangbelajar-desktop__second-content__image-mobile"/></div>
                      </div>
@@ -219,49 +214,6 @@
                            </div>
                         </div>
                      </div>
-                  </div>
-               </section>
-               <section>
-                  <div>
-                     <div class="for-teacher" placeholder="" style="background-image:url(https://ruangguru.imgix.net/png/img-teacher-full.png?auto=enhance%2Cformat%2Ccompress&amp;)">
-                        <div class="for-teacher__wave-bg"></div>
-                        <div class="container for-teacher__container">
-                           <div class="row">
-                              <div class="for-teacher__column">
-                                 <h1 class="for-teacher__title">Anda seorang guru?</h1>
-                                 <div class="for-teacher__caption">Bagaimana Ruangguru bisa membantu Anda?</div>
-                              </div>
-                              <div class="for-teacher__column">
-                                 <div class="for-teacher__advantages">
-                                    <div class="for-teacher__list left">
-                                       <div class="for-teacher__item">
-                                          <img src="https://ruangguru.imgix.net/png/home_teacher-income.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="for-teacher__img"/>
-                                          <div class="for-teacher__item-title">Raih Penghasilan Tambahan</div>
-                                          <p>Anda bisa mengajar secara online atau offline (datang ke rumah murid) dan raih penghasilan jutaan rupiah.</p>
-                                       </div>
-                                       <div class="for-teacher__item">
-                                          <img src="https://ruangguru.imgix.net/png/home_teacher-digitalclass.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="for-teacher__img"/>
-                                          <div class="for-teacher__item-title">Digital Classroom</div>
-                                          <p>Kelola kelas Anda secara digital. Anda dapat memberikan PR, latihan soal, atau tryout, serta memantau perkembangan siswa secara online.</p>
-                                       </div>
-                                    </div>
-                                    <div class="for-teacher__list right">
-                                       <div class="for-teacher__item">
-                                          <img src="https://ruangguru.imgix.net/png/home_teacher-question.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="for-teacher__img"/>
-                                          <div class="for-teacher__item-title">Cari Bahan Soal &amp; UKG</div>
-                                          <p>Bingung cari bahan untuk latihan soal siswa ataupun persiapan UKG? Bisa pilih dari puluhan ribu bank soal Ruangguru, maupun dari guru lainnya.</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <a class="link link--btn btn btn-accent btn-lg" href="/being-teacher">
-                                    <canvas class="ink" style="border-radius:inherit;height:100%;left:0;position:absolute;top:0;width:100%" height="0" width="0"></canvas>
-                                    PELAJARI SELENGKAPNYA
-                                 </a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="for-teacher__wave"><img src="https://ruangguru.imgix.net/png/wave.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/></div>
                   </div>
                </section>
             </div>
