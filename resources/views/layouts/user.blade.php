@@ -9,7 +9,7 @@
       <meta name="keywords" content="guru privat, guru les, guru kursus, try out online, soal un, aplikasi belajar online"/>
       <meta name="robots" content="index, follow, noodp, noydir"/>
       <script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-PVNLZFT",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")</script>
-      <title>Ruangguru</title>
+      <title>Capstone</title>
       <script>function testFunc(){"undefined"!=typeof Android&&Android.showToast("Ruangguru webview")}</script><script>function params(n,o){if("android"===o){var i=window.location.pathname;return"undefined"!=typeof Android&&Android.showToast("ruangguru"),window.location.href=i+"?token="+n+"&client_type="+o}}</script>
       <link href="{{asset('css/style.css')}}" rel="stylesheet">
       <script>window._PRERENDERED = 1;</script>
