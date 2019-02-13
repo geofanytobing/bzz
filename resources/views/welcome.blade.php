@@ -1,21 +1,134 @@
 @extends('layouts.user')
 @section('content')
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
 
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
    <section>
-                  <div class="slide-banner">
-                     <div class="slick-initialized slick-slider">
-                        <div class="slick-list">
-                           <div class="slick-track">
-                              <div data-index="-1" class="slick-slide slick-cloned"></div>
-                              <div data-index="0" class="slick-slide slick-active slick-cloned" tabindex="-1" style="outline:none"><a href="https://bimbel.ruangguru.com/promo?utm_source=webbanner&amp;utm_medium=referral&amp;utm_campaign=bimbelpromo" target="_blank" class="slide-banner__link" rel="noopener noreferrer"></a></div>
-                              <div data-index="1" class="slick-slide slick-cloned" tabindex="-1" style="outline:none"></div>
-                              <div data-index="2" class="slick-slide slick-cloned" tabindex="-1" style="outline:none"></div>
-                              <div data-index="3" class="slick-slide slick-cloned" tabindex="-1" style="outline:none"></div><a href="https://bimbel.ruangguru.com/promo?utm_source=webbanner&amp;utm_medium=referral&amp;utm_campaign=bimbelpromo" target="_blank" class="slide-banner__link" rel="noopener noreferrer"><img src="{{asset('images/capstone.jpeg')}}" class="slide-banner__img"></a>
-                              <div data-index="4" class="slick-slide slick-active slick-cloned"><a href="https://bimbel.ruangguru.com/promo?utm_source=webbanner&amp;utm_medium=referral&amp;utm_campaign=bimbelpromo" target="_blank" class="slide-banner__link" rel="noopener noreferrer"></a></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
+                 <div class="slideshow-container">
+
+<div class="mySlides fade">
+  <img src="{{asset('images/capstone.jpeg')}}" style="width:100%; height: 80vh;">
+ 
+</div>
+
+<div class="mySlides fade">
+  <img src="https://capstoneindonesia.net/images/201901160816155c3ee84f55d69.jpg" style="width:100%; height: 80vh;">
+  
+</div>
+
+<div class="mySlides fade">
+  <img src="https://capstoneindonesia.net/images/201901160816555c3ee87782720.jpg" style="width:100% ;height:80vh;">
+ 
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
                </section>
                <section class="home__section-ruangbelajar-desktop">
                   <div>
