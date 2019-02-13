@@ -23,7 +23,9 @@
             <header class="site-header site-header--">
                <div class="container site-header__container">
                   <div class="site-header__left">
-                     <a class="link site-header__link" href="/"><span class="isvg pending site-header__logo site-header__logo--picton"></span></a>
+                     <div class="site-header__logo site-header__logo--picton" >
+                        <img style="width: 70px; height: 50px;" src="{{asset('images/Untitled-1.png')}}">
+                     </div>
                      <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">
                         <div class="site-header__nav_list">
                            <a class="site-header__nav_list_item" aria-current="false" data-test-id="menu-about-us" href="/general/about">Tentang Kami</a>
