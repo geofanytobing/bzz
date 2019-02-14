@@ -1,95 +1,34 @@
 @extends('layouts.user')
 @section('content')
 
-<form class="banner"> 
-<div class="img-ttg">
-	<img src="{{url('images/biru.jpg')}}" style="height: 400px; width: 100%;">
-</div>
-</form>
-<div class="general">
-	<div class="con gen_con">
-		<nav class="nav_page">
-			<div class="a">
-			<a href=""><b>Tentang Kami</b></a>
-			</div>
-			<div class="b">
-			<a href=""><b>Kontak Kami</b></a>
-			</div>			
-		</nav>		
-	</div>
-</div>
-
-<div class="container">
-	<form class="container">
-	<h1>Tentang Web Ini</h1>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</p>
-	<video width="700" height="300" controls>
-  <source src="{{url('video/Andre.mp4')}}" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
-	</form>
-</div>
-
-<div>
-	<h3 class="kata">
-		Kontolll Geo Gede
-	</h3>
-<p class="kata">
-  	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-</div>
-
-<h3 class="kata">
-		Didukung Oleh nsakjsdnakdasndmaskl cksamcka
-	</h3>
-	<p class="kata">sadaskndaksjdsn ajdkas djkasdnasjkdnaskjdsandasjkdnasjdknsadjsandjasndajsdnajsdnajsdnasjdn</p>
-
-
-<div class="row">
-	<div class="img-dun">
-	<img src="{{asset('images/biru.jpg')}}">
-	<p>jndsajdnasjdjsadn asjk Lorem ipsum dolor sit amet </p>
-	</div>
-
-		<div class="img-dun">
-	<img src="{{asset('images/biru.jpg')}}">
-	<p>jndsajdnasjdjsadn asjk Lorem ipsum dolor sit amet </p>
-	</div>
-</div>
+<div class="general-page">
+                <section class="general-page__section">
+                    <div style="background-image:url(https://ruangguru.imgix.net/png/tentang-kami.png?auto=enhance%2Cformat%2Ccompress&amp;)" class="general-page__banner"></div>
+                </section>
+                <div class="general-page__nav">
+                    <div class="container general-page__nav_container">
+                        <nav class="general-page__nav_inner"><a class="general-page__nav_link active" aria-current="true" href="/general/about">Tentang Ruangguru</a><a class="general-page__nav_link" aria-current="false" href="/general/contact">Kontak Kami</a></nav>
+                    </div>
+                </div>
+                <section class="general-page__section general-page__section_header">
+                    <div class="container undefined">
+                        <div class="general-child">
+                            <div class="about">
+                                <h2 class="about__title" data-test-id="page-title-about">Tentang Ruangguru</h2>
+                                <div class="about__body">
+                                    <section>
+                                        <p>Ruangguru merupakan perusahaan teknologi terbesar dan terlengkap di Indonesia yang berfokus pada layanan berbasis pendidikan dan telah memiliki lebih dari 6 juta pengguna serta telah mengelola lebih dari 150.000 guru yang menawarkan jasa di lebih dari 100 bidang pelajaran. Perusahaan ini didirikan sejak tahun 2014 oleh Belva Devara dan Iman Usman, yang keduanya berhasil masuk dalam jajaran pengusaha sukses dibawah 30 tahun melalui Forbes 30 under 30 untuk teknologi konsumen di Asia.</p>
+                                        <p>Ruangguru berkomitmen untuk menjadi mitra bagi pemerintah daerah demi memberikan pendidikan berkualitas melalui Sistem Manajemen Belajar (LMS). Tahun lalu, Ruangguru berhasil bekerja sama dengan 32 (dari 34) pemerintah provinsi dan lebih dari 326 pemerintah kota dan kabupaten di Indonesia. Selain itu, Ruangguru juga menawarkan video belajar berlangganan, marketplace les privat, layanan bimbingan belajar on-demand, tryout ujian online, dan lain-lain.</p>
+                                    </section>
+                                    <section class="about__video-wrapper">
+                                        <div class="about__player">
+    <video width="400" controls class="about__video-wrapper">
+      <source src="{{asset('images/tayo.mp4')}}" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+                                    </section>
+                                   </div>
+                               </div>
+                           </div>
 @endsection
