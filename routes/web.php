@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('tentang/index', function () {
+    return view('tentang.index');
+});

@@ -1,3 +1,110 @@
+.banner{
+    width: 100%;
+    height: 400px;
+    background-color: red;
+    background-size: cover;
+    background-position: 50%;
+    background-position-x:50%; 
+    background-position-y:center; 
+}
+.img-ttg{
+    margin-left: auto;
+    margin-right: auto;
+}
+.general{
+    background-color: #3cc4e5;
+    box-sizing: border-box;
+    display: block;
+}
+.con{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+    position: relative;
+}
+.nav_page{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    position: relative;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.a{
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    position: relative;
+    border-bottom: 3px solid transparent;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: transparent;
+}
+.b{
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    position: relative;
+    border-bottom: 3px solid transparent;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: transparent;
+}    
+
+.container{
+    text-align: center;
+}
+.kata{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.img-dun{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 20%;
+    height: 10%;
+}
+
+.link{
+    cursor:pointer
+}
+.link--btn{
+    display:inline-block;
+    position:relative;
+    padding:10px 20px;
+    border-radius:4px;
+    background-color:#f89825;
+    outline:0;
+    border:0;
+    color:#fff;
+    font-weight:500;
+    letter-spacing:.5px;
+    text-align:center
+}
 .link{
     cursor:pointer
 }
