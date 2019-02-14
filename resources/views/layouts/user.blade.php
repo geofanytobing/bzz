@@ -54,24 +54,94 @@
             <div class="home">
                @yield('content')
             </div>
-            <footer class="footer  ">
+            <footer class="footer">
                <div class="footer__top">
-                  <div class="container footer__container">
-                     <div class="site-maps"> 
-                     </div>
-                  </div>
-               </div>
-               <div class="footer__bottom">
-                  <div class="container footer__container">
-                     <div class="row">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fas fa-globe"></i></a>
-                     </div>
-                  </div>
-               </div>
-               <div></div>
+                    <div class="container footer__container">
+                        <div class="footer__about">
+                            <siteAppFooter>
+                                <div class="footer__apps">
+                                    <div class="footer__apps_badges_container">
+                                        <div class="footer__apps_caption">
+                                           <center> 
+                                           ABOUT US
+                                           </center>
+                                        </div>
+                                    </div>
+                                </div>
+                            </siteAppFooter>
+                        </div>
+                    </div>
+                    <div class="container undefined">
+                        <div class="footer__line"></div>
+                    </div>
+                    <div class="container footer__container">
+                        <div class="site-maps">
+                           <center>
+                            <div class="site-map site-maps__item">
+                                    <h3 style="color: white;">We Are</h3>
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</p>
+                            </div>
+                            <div class="site-map site-maps__item">
+                                    <h3 style="color: white;">Always</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</p>
+                            </div>
+                            <div class="site-map site-maps__item">
+                                    <h3 style="color: white;">Here</h3>
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</p>
+                            </div>
+                            <div class="site-map site-maps__item">
+                                    <h3 style="color: white;">Oke</h3>
+                                    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                    consequat.</p>
+                            </div>
+                            <!-- <div class="site-map site-maps__item site-map__item_sosmed">
+                                <h3 style="color: white;">Follow Us</h3>
+                                <ul class="list site-map__list">
+                                    <li class="list__item site-map__list_item">
+                                        <a href="#"><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                    <li class="list__item site-map__list_item">
+                                        <a href="#"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="list__item site-map__list_item">
+                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="list__item site-map__list_item">
+                                        <a href="#"><i class="fas fa-globe"></i></a>
+                                    </li>
+                                </ul>
+                            </div> -->
+                            </center>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__bottom">
+                    <div class="container footer__container">
+                        <div class="row">
+                           <div class="footer__bottom_div text-left">
+                            <span class="footer__bottom-text">© 2018 capstone. All Rights Reserved</span>
+                           </div>
+                           <!-- <div class="footer__bottom_div text-right">
+                               <a href="#"><i class="fab fa-instagram"></i></a>
+                               <a href="#"><i class="fab fa-twitter"></i></a>
+                               <a href="#"><i class="fab fa-facebook-f"></i></a>
+                               <a href="#"><i class="fas fa-globe"></i></a>
+                           </div> -->
+                        </div>
+                    </div>
+                </div>
+                <div></div>
             </footer>
          </div>
       </div>

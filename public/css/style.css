@@ -1093,7 +1093,7 @@
 .site-map__item_sosmed .list__item.site-map__list_item{
     float:left;
     width:32px;
-    margin-right:10px
+    margin-right:4px
 }
 @media (min-width:768px){
     .site-map__item_sosmed .list__item.site-map__list_item:nth-child(odd){
@@ -1101,7 +1101,7 @@
     }
 }
 .site-map__item_sosmed .site-map__list{
-    width:84px
+    width:151px
 }
 .site-maps:after,.site-maps:before{
     content:"";
@@ -1138,7 +1138,6 @@
 @media (min-width:768px){
     .footer__apps{
         display:-ms-flexbox;
-        display:flex;
         -ms-flex-align:center;
         align-items:center
     }
@@ -1325,7 +1324,7 @@
     }
 }
 .footer__about{
-    padding:40px 0 0 30px
+    padding:40px 0 0 
 }
 .footer__siteapp{
     width:100%;
@@ -1374,7 +1373,7 @@
 .footer__line{
     background-color:#dbdbdb;
     height:1px;
-    margin-bottom:48px
+    margin-bottom:10px
 }
 .footer.paymentsuccess{
     display:none
@@ -17197,7 +17196,7 @@ h2{
     font-size:28px
 }
 h3{
-    font-size:24px
+    font-size:23px
 }
 h3,h4{
     font-family:Source Sans Pro,sans-serif
