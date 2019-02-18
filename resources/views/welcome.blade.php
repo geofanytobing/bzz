@@ -108,11 +108,11 @@
                                  Materi sesuai kurikulum nasional dan disiapkan oleh Master<!-- --> <br/>Teacher, pengajar-pengajar berpengalaman dan terbaik lulusan<br/>universitas-universitas top Indonesia dan luar negeri.
                               </div>
                               <div class="achivement__universitas--logo">
-                                 <div class="achivement__universitas--logo-wrap"><img src="https://ruangguru.imgix.net/png/ui-logo@3x.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="logo UI"/></div>
-                                 <div class="achivement__universitas--logo-wrap"><img src="https://ruangguru.imgix.net/png/itb-logo@3x.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="logo ITB"/></div>
-                                 <div class="achivement__universitas--logo-wrap"><img src="https://ruangguru.imgix.net/png/uny-logo@3x.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="logo UNY"/></div>
-                                 <div class="achivement__universitas--logo-wrap"><img src="https://ruangguru.imgix.net/png/standford-logo@3x.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="logo Stanford"/></div>
-                                 <div class="achivement__universitas--logo-wrap"><img src="https://ruangguru.imgix.net/png/columbia-logo@3x.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="logo Colombia"/></div>
+                                 <div class="achivement__universitas--logo-wrap"><img src="{{asset('images/ui-logo(NEW)@3x.png')}}" alt="logo UI"/></div>
+                                 <div class="achivement__universitas--logo-wrap"><img src="{{asset('images/itb-logo(NEW)@3x.png')}}" alt="logo ITB"/></div>
+                                 <div class="achivement__universitas--logo-wrap"><img src="{{asset('images/uny-logo(NEW)@3x.png')}}" alt="logo UNY"/></div>
+                                 <div class="achivement__universitas--logo-wrap"><img src="{{asset('images/standford-logo(NEW)@3x.png')}}" alt="logo Stanford"/></div>
+                                 <div class="achivement__universitas--logo-wrap"><img src="{{asset('images/columbia-logo(NEW)@3x.png')}}" alt="logo Colombia"/></div>
                               </div>
                            </div>
                         </div>
