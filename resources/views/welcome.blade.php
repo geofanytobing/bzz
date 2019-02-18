@@ -38,7 +38,7 @@
                   <div>
                      <div class="container home_ruangbelajar-desktop__container">
                         <div class="home_ruangbelajar-desktop__main-content">
-                           <div><img src="https://ruangguru.imgix.net/png/home_ruangbelajardesktop-label.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="ruangbelajar for Desktop" class="home_ruangbelajar-desktop__label"/></div>
+                           <div><img src="{{asset('images/qwerty.svg')}}" alt="ruangbelajar for Desktop" class="home_ruangbelajar-desktop__label"/></div>
                            <div class="home_ruangbelajar-desktop__line"></div>
                            <div class="home_ruangbelajar-desktop__title">Akses ruangbelajar jadi lebih nyaman</div>
                            <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu-tunggu kini sudah hadir! Gunakan ruangbelajar di PC atau laptop kamu. Belajar kini lebih nyaman dengan layar yang lebih besar.</div>
@@ -51,7 +51,7 @@
                               </svg>
                            </a>
                         </div>
-                        <div class="home_ruangbelajar-desktop__second-content"><img src="https://ruangguru.imgix.net/png/home_ruangbelajardesktop-section-mobile.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="ruangbelajar desktop image" class="home_ruangbelajar-desktop__second-content__image-mobile"/></div>
+                        <div class="home_ruangbelajar-desktop__second-content"><img src="../images/beranda.png" alt="ruangbelajar desktop image" class="home_ruangbelajar-desktop__second-content__image-mobile"/></div>
                      </div>
                   </div>
                </section>
@@ -59,7 +59,7 @@
                   <div>
                      <div class="container whats">
                         <div class="whats__section-wrapper">
-                           <div class="whats__phone-img"><img src="https://ruangguru.imgix.net/png/new-rg-app-pict.png?auto=format%2Ccompress&amp;" alt="Ruangguru Aplikasi Belajar Untuk Siswa SD, SMP, dan SMA!"/></div>
+                           <div class="whats__phone-img"><img src="{{asset('images/hpanjng.png')}}" alt="Ruangguru Aplikasi Belajar Untuk Siswa SD, SMP, dan SMA!"/></div>
                            <div class="whats__side-wrapper">
                               <h1 class="whats__title">Aplikasi Belajar Untuk Siswa SD, SMP, dan SMA!</h1>
                               <div class="whats__line"></div>

@@ -41,7 +41,7 @@
 
                                     <section class="about__section about__section--layout">
                                     	<div>
-                                    		<h3 class="about__section-title kata">Capstone Untuk Pendidikan Indonesia</h3>
+                                    		<h3 class="about__section-title kata" style="text-align: left;">Capstone Untuk Pendidikan Indonesia</h3>
                                     		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                                     		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                                     		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
