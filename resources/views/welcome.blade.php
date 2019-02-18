@@ -78,7 +78,7 @@
                      <div class="achivement__background-2"><span class="isvg pending achivement__background--oval-2"></span></div>
                      <div class="achivement__background-3"><span class="isvg pending achivement__background--oval-3"></span></div>
                      <div class="achivement__container-main">
-                        <div src="https://ruangguru.imgix.net/png/map-indonesia.png?auto=enhance%2Cformat%2Ccompress&amp;" class="achivement__map-indonesia" placeholder="" style="background-image:url(https://ruangguru.imgix.net/png/map-indonesia.png?auto=enhance%2Cformat%2Ccompress&amp;)">
+                        <div src="https://ruangguru.imgix.net/png/map-indonesia.png?auto=enhance%2Cformat%2Ccompress&amp;" class="achivement__map-indonesia" placeholder="" style="background-image:url('images/map-indonesia(NEW).png')">
                            <div class="container achivement__container">
                               <div class="achivement__label" id="achivement_label">Ruangguru telah dipercaya oleh pemerintah <br/>daerah di seluruh Indonesia</div>
                            </div>

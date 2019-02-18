@@ -1774,7 +1774,7 @@
     margin-top:32px
 }
 .whats__btn{
-    background-color:#2eb5c0;
+    background-color:#9a4a0d;
     border:2px solid rgba(0,0,0,.16);
     width:270px
 }
@@ -2433,7 +2433,7 @@
     display:flex;
     display:-webkit-flex;
     min-height:125px;
-    background-color:#2eb5c0
+    background-color:#9a4a0d;
 }
 @media (min-width:768px){
     .achivement__city{
@@ -2479,7 +2479,7 @@
     display:flex;
     display:-webkit-flex;
     min-height:125px;
-    background-color:#5acc8a
+    background-color:#fa8d00;
 }
 @media (min-width:768px){
     .achivement__province{
@@ -2536,7 +2536,7 @@
     background-position:50%;
     background-size:contain;
     background-repeat:no-repeat;
-    background-image:url("https://ruangguru.imgix.net/png/home_students_mobile.png?auto=compress%2Cenhance%2Cformat")
+    background-image:url("../images/home_students_mobile(NEW).png")
 }
 @media (min-width:768px){
     .achivement__student--background{
@@ -2545,7 +2545,7 @@
         background-position:50%;
         background-size:contain;
         background-repeat:no-repeat;
-        background-image:url("https://ruangguru.imgix.net/png/students@2x.png?auto=compress%2Cenhance%2Cformat")
+        background-image:url("../images/students(NEW)@2x.png")
     }
 }
 .achivement__student--label{
@@ -2673,12 +2673,12 @@
     background-position:50%;
     background-size:contain;
     background-repeat:no-repeat;
-    background-image:url("https://ruangguru.imgix.net/png/lp-utama_mob-award-logo.png?auto=compress%2Cenhance%2Cformat")
+    background-image:url("../images/lp-utama_mob-award-logo(NEW).png ")
 }
 @media (min-width:768px){
     .achivement__awards--image{
         height:228px;
-        background-image:url("https://ruangguru.imgix.net/png/lp-utama_award-logo.png?auto=compress%2Cenhance%2Cformat")
+        background-image:url("../images/lp-utama_award-logo-Recovered(NEW).png")
     }
 }
 .main-banner{

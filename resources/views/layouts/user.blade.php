@@ -24,7 +24,7 @@
                <div class="container site-header__container">
                   <div class="site-header__left">
                      <div class="site-header__logo site-header__logo--picton" >
-                        <img style="width: 70px; height: 50px;" src="{{asset('images/Untitled-1.png')}}">
+                        <img style="width: 70px; height: 50px;" src="{{asset('images/capstone.png')}}">
                      </div>
                      <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">
                         <div class="site-header__nav_list">
