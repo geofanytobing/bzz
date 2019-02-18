@@ -387,7 +387,7 @@
 .auth-util__btn{
     margin-left:15px;
     position:relative;
-    border:1px solid #2eb5c0;
+    border:1px solid #9a4a0d;
     border-radius:100px;
     padding:10px 20px;
     display:inline-block;
@@ -395,17 +395,17 @@
     text-align:center
 }
 .auth-util__btn.inverse{
-    background-color:#2eb5c0;
+    background-color:#9a4a0d;
     color:#fff
 }
 .auth-util__btn.inverse--white{
     background-color:#fff;
-    color:#f89825;
+    color:#9a4a0d;
     border:0
 }
 .auth-util__btn.versa{
     background-color:#fff;
-    color:#2eb5c0
+    color:#9a4a0d
 }
 .auth-util__btn.versa--white{
     background-color:transparent;
@@ -414,7 +414,7 @@
 }
 .auth-util__btn--selected{
     background-color:#fff;
-    color:#f89825
+    color:#9a4a0d
 }
 @media (max-width:767px){
     .auth-util__btn{
@@ -1380,12 +1380,12 @@
     font-weight:600
 }
 .footer__top{
-    background-color:#333e44;
+    background-color:#9a4a0d;
     min-height:20px
 }
 .footer__bottom{
-    background-color:rgba(0,0,0,.1);
-    padding:20px 0
+    background-color:#9a4a0d;
+    padding:20px 0;
 }
 .footer__bottom-text{
     display:block;
