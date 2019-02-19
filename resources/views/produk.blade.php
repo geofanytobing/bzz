@@ -125,45 +125,5 @@
                         </div>
                     </div>
                 </section>
-                <section class="ruanglesonline__testimony">
-                    <div class="container testimony__container">
-                        <h1 class="testimony__head">Pendapat Murid Tentang ruanglesonline</h1>
-                        <div class="testimony__line"></div>
-                        <div class="testimony__slides_container">
-                            <div class="slick-initialized slick-slider">
-                                <div class="slick-list">
-                                    <div class="slick-track">
-                                        <div data-index="-1" class="slick-slide slick-cloned"></div>
-                                        <div class="slick-slide slick-active slick-cloned testimony__slides" data-index="0" tabindex="-1" style="outline:none">
-                                            <div class="testimony__slide_inner">
-                                                <div class="testimony__slide-left"><img src="https://ruangguru.imgix.net/jpg/ruanglesonline_testimonial1.jpg?w=160&amp;h=160&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="testimony__img" />
-                                                    <div class="testimony__name">Finanda R</div>
-                                                    <div class="testimony__instance">Siswi SD</div>
-                                                </div>
-                                                <div class="testimony__slide-right"><img class="testimony__quote-left" src="https://ruangguru.imgix.net/svg/ruanglesonline_quote-left.svg?auto=enhance%2Cformat%2Ccompress&amp;" alt="" /><img class="testimony__quote-right" src="https://ruangguru.imgix.net/svg/ruanglesonline_quote-right.svg?auto=enhance%2Cformat%2Ccompress&amp;" alt="" />
-                                                    <div class="testimony__testi">Aku senang sekali sama ruanglesonline karena sangat membantu banget. Aku bisa nanya tugas-tugas sekolah kepada tutor-tutor yang tersedia sampai akhirnya aku mengerti. Menurutku ruanglesonline ini efektif banget sih untuk membuat aku paham pada tugas yang diberikan dari guru di sekolah. Aku pasti akan pakai ruanglesonline lagi kalau ada tugas yang sulit aku mengerti.</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-index="1" class="slick-slide slick-cloned" tabindex="-1" style="outline:none"></div>
-                                        <div data-index="2" class="slick-slide slick-cloned" tabindex="-1" style="outline:none"></div>
-                                        <div class="slick-slide slick-active slick-cloned testimony__slides" data-index="3">
-                                            <div class="testimony__slide_inner">
-                                                <div class="testimony__slide-left"><img src="https://ruangguru.imgix.net/jpg/ruanglesonline_testimonial1.jpg?w=160&amp;h=160&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="testimony__img" />
-                                                    <div class="testimony__name">Finanda R</div>
-                                                    <div class="testimony__instance">Siswi SD</div>
-                                                </div>
-                                                <div class="testimony__slide-right"><img class="testimony__quote-left" src="https://ruangguru.imgix.net/svg/ruanglesonline_quote-left.svg?auto=enhance%2Cformat%2Ccompress&amp;" alt="" /><img class="testimony__quote-right" src="https://ruangguru.imgix.net/svg/ruanglesonline_quote-right.svg?auto=enhance%2Cformat%2Ccompress&amp;" alt="" />
-                                                    <div class="testimony__testi">Aku senang sekali sama ruanglesonline karena sangat membantu banget. Aku bisa nanya tugas-tugas sekolah kepada tutor-tutor yang tersedia sampai akhirnya aku mengerti. Menurutku ruanglesonline ini efektif banget sih untuk membuat aku paham pada tugas yang diberikan dari guru di sekolah. Aku pasti akan pakai ruanglesonline lagi kalau ada tugas yang sulit aku mengerti.</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimony__slide_nav"><button type="button" class="btn testimony__slide_nav-btn testimony__slide_nav-btn--prev"><canvas class="ink" style="border-radius:inherit;height:100%;left:0;position:absolute;top:0;width:100%" height="0" width="0"></canvas><img src="https://ruangguru.imgix.net/png/ruangles_landingpage-slidearrowleft.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></button><button type="button" class="btn testimony__slide_nav-btn testimony__slide_nav-btn--next"><canvas class="ink" style="border-radius:inherit;height:100%;left:0;position:absolute;top:0;width:100%" height="0" width="0"></canvas><img src="https://ruangguru.imgix.net/png/ruangles_landingpage-slidearrowright.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></button></div>
-                        </div>
-                    </div>
-                </section>
             </div>
                 @endsection
