@@ -3,11 +3,11 @@
 
 <div class="general-page">
                 <section class="general-page__section">
-                    <div style="background-image:url(https://ruangguru.imgix.net/png/tentang-kami.png?auto=enhance%2Cformat%2Ccompress&amp;)" class="general-page__banner"></div>
+                    <div style="background-image:url('../images/BATUBATU.png')" class="general-page__banner"></div>
                 </section>
                 <div class="general-page__nav">
                     <div class="container general-page__nav_container">
-                        <nav class="general-page__nav_inner"><a class="general-page__nav_link active" aria-current="true" href="{{asset('/tentang/tentang')}}">Tentang Ruangguru</a><a class="general-page__nav_link" aria-current="false" href="/tentang/kontak">Kontak Kami</a></nav>
+                        <nav class="general-page__nav_inner"><a class="general-page__nav_link active" aria-current="true" href="{{asset('/tentang/tentang')}}">Tentang Ruangguru</a><a class="general-page__nav_link" aria-current="false" href="{{asset('tentang/kontak')}}">Kontak Kami</a></nav>
                     </div>
                 </div>
                 <section class="general-page__section general-page__section_header">
