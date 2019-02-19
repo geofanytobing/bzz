@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('tentang/index', function () {
     return view('tentang.index');
 });
+Route::get('tentang/kontak',function(){
+	return view('tentang.kontak');
+});
