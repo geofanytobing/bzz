@@ -51,7 +51,7 @@
                               </svg>
                            </a>
                         </div>
-                        <div class="home_ruangbelajar-desktop__second-content"><img src="../images/beranda(NEW).svg" alt="ruangbelajar desktop image" class="home_ruangbelajar-desktop__second-content__image-mobile"/></div>
+                        <div class="home_ruangbelajar-desktop__second-content"><img src="../images/beranda(NEW).sv" alt="ruangbelajar desktop image" class="home_ruangbelajar-desktop__second-content__image-mobile"/></div>
                      </div>
                   </div>
                </section>

@@ -23,7 +23,7 @@
             <header class="site-header site-header--">
                <div class="container site-header__container">
                   <div class="site-header__left">
-                     <div class="site-header__logo site-header__logo--picton" >
+                     <div class="site-header__logo site-header__logo--picton"  href="{{asset('welcome')}}">
                         <img style="width: 70px; height: 50px;" src="{{asset('images/capstone.png')}}">
                      </div>
                      <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">

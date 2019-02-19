@@ -6693,7 +6693,7 @@
     padding:10px
 }
 .form-contact__btn{
-    background-color:#2eb4bf
+    background-color:#9a4a0d;
 }
 .form-contact__img-modal{
     margin:0 auto;
@@ -9047,7 +9047,7 @@
     margin-bottom:20px
 }
 .super-card__header{
-    background-color:#dbdbdb;
+    background-color:#9a4a0d;
     padding:20px
 }
 .super-card__title{
@@ -15811,7 +15811,7 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     padding:40px 0 20px
 }
 .general-page__nav{
-    background-color:#3cc4e5
+    background-color:#9a4a0d
 }
 .general-page__nav_inner{
     display:-ms-flexbox;
@@ -17422,7 +17422,7 @@ img {vertical-align: middle;}
 }
 
 .active {
-  background-color: #717171;
+  background-color: #fa8d00;
 }
 
 /* Fading animation */
