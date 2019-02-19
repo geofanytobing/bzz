@@ -25,3 +25,7 @@ Route::get('tentang/kontak',function(){
 Route::get('tentang/tentang',function(){
 	return view('tentang.tentang');
 });
+Route::get('produk',function
+	(){
+		return view('produk');
+	});

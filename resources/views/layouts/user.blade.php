@@ -29,9 +29,11 @@
                      <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">
                         <div class="site-header__nav_list">
                            <a class="site-header__nav_list_item" aria-current="false" data-test-id="menu-about-us" href="{{asset('tentang/index')}}">Tentang Kami</a>
-                           <div data-test-id="product-menu" class="site-header__nav_list_item "><span>Produk Kami</span><span class="isvg pending site-header__angledown site-header__angledown--picton  site-header__angledown--"></span></div>
+                            <a href="{{url('produk')}}" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">Produk Kami</a>
+                         
                            <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">ruangbaca</a>
-                           <div data-test-id="bimbel-menu" class="site-header__nav_list_item "><span>Bimbel Online</span><span class="isvg pending site-header__angledown site-header__angledown--picton  site-header__angledown--"></span></div>
+                          <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">Sewa Cewe</a>
+                         
                            <a class="site-header__nav_list_item" aria-current="false" href="/help/student">Bantuan</a>
                         </div>
                         <div class="auth-util site-header__auth-util--mobile">
