@@ -65,37 +65,37 @@
                                     	<span>Sebagai salah satu startup teknologi dan pendidikan terbesar di Indonesia, Ruangguru telah dinobatkan menjadi penerima beragam penghargaan.</span>
                                     	<div class="about__awards">
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/google-launchpad.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="google launchpad"/><span>Google Launchpad Accelerator 2016 - Awardee</span>
+                                    			<img src="{{asset('images/google-launchpad.png')}}" alt="google launchpad"/><span>Google Launchpad Accelerator 2016 - Awardee</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/unicef.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="unicef"/>
+                                    			<img src="{{asset('images/unicef.png')}}" alt="unicef"/>
                                     			<span>UNICEF Youth Innovation Forum 2015 - Innovation to Watch</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/bubu-awards-logo.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="bubu awards"/>
+                                    			<img src="{{asset('images/bubu-awards-logo.png')}}" alt="bubu awards"/>
                                     			<span>Bubu Awards 2016 - Indonesia&#x27;s Best Education Web</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/solve-logo.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="solve MIT award"/>
+                                    			<img src="{{asset('images/solve-logo.png')}}" alt="solve MIT award"/>
                                     			<span>MIT Solve- Solver of MIT</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/atlassian-logo.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="" class="about__atlassian"/>
+                                    			<img src="{{asset('images/atlassian-logo.png')}}" alt="" class="about__atlassian"/>
                                     			<span>the Atlassian Foundation - Atlassian Prize</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/australian-gov.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/>
+                                    			<img src="{{asset('images/australian-gov.png')}}" alt=""/>
                                     			<span>Departemen of Foreign Affairs</span>
                                     			<span>and Trade - DFAT Indo -</span>
                                     			<span>Pacific Development Prize</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/kinses-logo.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="unicef" class="about__kinses"/>
+                                    			<img src="{{asset('images/kinses-logo.png')}}" alt="unicef" class="about__kinses"/>
                                     			<span>
                                     			Kaizen, INSEAD &amp; NYU Stern Education Symposium (KINSES 2016) - Honorable Mention</span>
                                     		</div>
                                     		<div class="about__award">
-                                    			<img src="https://ruangguru.imgix.net/png/ricebowl-awards.png?auto=enhance%2Cformat%2Ccompress&amp;" alt=""/>
+                                    			<img src="{{asset('images/ricebowl-awards.png')}}" alt=""/>
                                     			<span>Rice Bowl Startup Awards</span>
                                     			<span>2016 - Best Social</span>
                                     			<span>Entrepreneur for Tech</span>
@@ -107,4 +107,5 @@
                                    </div>
                                </div>
                            </div>
+
 @endsection
