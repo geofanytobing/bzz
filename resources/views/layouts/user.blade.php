@@ -23,12 +23,12 @@
             <header class="site-header site-header--">
                <div class="container site-header__container">
                   <div class="site-header__left">
-                     <div class="site-header__logo site-header__logo--picton"  href="{{asset('welcome')}}">
-                        <img style="width: 70px; height: 50px;" src="{{asset('images/capstone.png')}}">
+                     <div class="site-header__logo site-header__logo--picton">
+                        <a href="/"><img style="width: 70px; height: 50px;" src="{{asset('images/capstone.png')}}"></a>
                      </div>
                      <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">
                         <div class="site-header__nav_list">
-                           <a class="site-header__nav_list_item" aria-current="false" data-test-id="menu-about-us" href="{{asset('tentang/index')}}">Tentang Kami</a>
+                           <a class="site-header__nav_list_item" aria-current="false" data-test-id="menu-about-us" href="tentang/index">Tentang Kami</a>
                            <div data-test-id="product-menu" class="site-header__nav_list_item "><span>Produk Kami</span><span class="isvg pending site-header__angledown site-header__angledown--picton  site-header__angledown--"></span></div>
                            <a href="http://blog.ruangguru.com/" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">ruangbaca</a>
                            <div data-test-id="bimbel-menu" class="site-header__nav_list_item "><span>Bimbel Online</span><span class="isvg pending site-header__angledown site-header__angledown--picton  site-header__angledown--"></span></div>
