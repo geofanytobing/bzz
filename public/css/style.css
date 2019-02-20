@@ -7877,7 +7877,7 @@
 }
 .take-photo{
     display:block;
-    background:#9a4a0d;
+    background:#f8813c;
     padding-top:70px;
     height:auto;
     position:relative
@@ -8052,9 +8052,9 @@
     }
 }
 .connect-with-teacher{
-    background-image:-webkit-linear-gradient(287deg,#fa9247,#f45922);
-    background-image:-o-linear-gradient(287deg,#fa9247,#f45922);
-    background-image:linear-gradient(163deg,#fa9247,#f45922);
+    background-color:#9a4a0d;
+    background-color:#9a4a0d;
+    background-color: #9a4a0d;
     width:100%;
     position:relative
 }
@@ -8172,7 +8172,7 @@
 }
 .help-learn{
     display:block;
-    background:#fff;
+    background:#f8813c;
     padding-top:70px;
     height:auto;
     position:relative
@@ -17277,7 +17277,7 @@ body,html{
 }
 body{
     color:#333;
-    background:#fff;
+    background:#f8813c;
     letter-spacing:.5px
 }
 h1,h2,h3,h4,h5,h6{
