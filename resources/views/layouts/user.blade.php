@@ -29,7 +29,7 @@
                      <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">
                         <div class="site-header__nav_list">
                            <a class="site-header__nav_list_item" aria-current="false" data-test-id="menu-about-us" href="{{asset('tentang/index')}}">Tentang Kami</a>
-                            <a href="{{url('produk')}}" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">Produk Kami</a>
+                            <a href="{{url('produk')}}" class="site-header__nav_list_item" rel="noopener noreferrer">Produk Kami</a>
                          
                            <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">ruangbaca</a>
                           <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">dddddd</a>

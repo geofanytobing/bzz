@@ -7827,10 +7827,7 @@
     max-width:250px
 }
 .ruanglesonline__section-intro{
-    background-image:-webkit-gradient(linear,left top,left bottom,from(#fa703d),to(#f45922));
-    background-image:-webkit-linear-gradient(top,#fa703d,#f45922);
-    background-image:-o-linear-gradient(top,#fa703d,#f45922);
-    background-image:linear-gradient(180deg,#fa703d,#f45922);
+    background-color:#9a4a0d;
     color:#fff;
     height:auto;
     padding-top:40px;
@@ -7880,7 +7877,7 @@
 }
 .take-photo{
     display:block;
-    background:#fff;
+    background:#9a4a0d;
     padding-top:70px;
     height:auto;
     position:relative
@@ -15882,12 +15879,12 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     color:#000
 }
 .help-student__accordion{
-    border-top:1px solid #dbdbdb;
-    border-right:1px solid #dbdbdb;
-    border-left:1px solid #dbdbdb
+    border-top:1px solid #9a4a0d;
+    border-right:1px solid #9a4a0d;
+    border-left:1px solid #9a4a0d
 }
 .help-student__collapsible_trigger{
-    color:#3cc4e5;
+    color:#9a4a0d;
     font-weight:700
 }
 .help-student__collapsible_input{
@@ -15899,7 +15896,7 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     padding:10px
 }
 .help-student__accordion .help-student__collapsible_input:checked+.help-student__collapsible_label{
-    border-bottom:1px solid #dbdbdb;
+    border-bottom:1px solid #9a4a0d;
     padding-bottom:10px
 }
 .help-student__collapsible_article{
@@ -15912,19 +15909,19 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     background-color:#fff
 }
 .help-student__collapsible{
-    border-left:1px solid #dbdbdb;
-    border-right:1px solid #dbdbdb
+    border-left:1px solid #9a4a0d;
+    border-right:1px solid #9a4a0d;
 }
 .help-student__collapsible:last-child>span{
     border-bottom:0
 }
 .help-student__collapsible_trigger{
     display:block;
-    border-bottom:1px solid #dbdbdb
+    border-bottom:1px solid #9a4a0d;
 }
 .help-student__collapsible_content{
     padding:10px;
-    border-bottom:1px solid #dbdbdb
+    border-bottom:1px solid #9a4a0d;
 }
 .help-student__collapsible_content h5{
     margin-top:0
@@ -15978,21 +15975,21 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     color:#000
 }
 .help-teacher__accordion{
-    border-top:1px solid #dbdbdb;
-    border-right:1px solid #dbdbdb;
-    border-left:1px solid #dbdbdb
+    border-top:1px solid #9a4a0d;
+    border-right:1px solid #9a4a0d;
+    border-left:1px solid #9a4a0d
 }
 .help-teacher__collapsible_trigger{
-    color:#3cc4e5;
+    color:#9a4a0d;
     font-weight:700
 }
 .help-teacher__collapsible{
-    border-left:1px solid #dbdbdb;
-    border-right:1px solid #dbdbdb
+    border-left:1px solid #9a4a0d;
+    border-right:1px solid #9a4a0d
 }
 .help-teacher__collapsible_trigger{
     display:block;
-    border-bottom:1px solid #dbdbdb
+    border-bottom:1px solid #9a4a0d;
 }
 .help-teacher__collapsible_input{
     display:none
@@ -16003,7 +16000,7 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     padding:10px
 }
 .help-teacher__accordion .help-teacher__collapsible_input:checked+.help-teacher__collapsible_label{
-    border-bottom:1px solid #dbdbdb;
+    border-bottom:1px solid #9a4a0d;
     padding-bottom:10px
 }
 .help-teacher__collapsible_article{
@@ -16017,7 +16014,7 @@ li.rc-time-picker-panel-select-option-disabled:hover{
 }
 .help-teacher__collapsible_content{
     padding:10px;
-    border-bottom:1px solid #dbdbdb
+    border-bottom:1px solid #9a4a0d;
 }
 .help-teacher__collapsible_content h5{
     margin-top:0
@@ -16048,7 +16045,7 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     display:-ms-flexbox;
     display:flex;
     padding:0;
-    border:1px solid #3cc4e5
+    border:1px solid #9a4a0d;
 }
 .help__tab{
     width:50%;
@@ -16057,7 +16054,7 @@ li.rc-time-picker-panel-select-option-disabled:hover{
     padding:.5em
 }
 .help__tab--selected{
-    background-color:#3cc4e5;
+    background-color:#9a4a0d;
     color:#fff
 }
 .help__tab_panel{
