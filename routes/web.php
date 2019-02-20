@@ -15,7 +15,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
+Route::get('/murid',function(){
+	return view('bantuan.murid');
+});
+Route::get('/guru',function(){
+	return view('bantuan.guru');
+});
 Route::get('tentang/index', function () {
     return view('tentang.index');
 });

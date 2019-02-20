@@ -34,7 +34,7 @@
                            <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">ruangbaca</a>
                           <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">dddddd</a>
                          
-                           <a class="site-header__nav_list_item" aria-current="false" href="/help/student">Bantuan</a>
+                           <a class="site-header__nav_list_item" aria-current="false" href="{{url('murid')}}">Bantuan</a>
                         </div>
                         <div class="auth-util site-header__auth-util--mobile">
                            <div class="auth-util__inner"><a class="auth-util__btn versa auth-util__btn--picton versa--picton" aria-current="false" data-test-id="menu-auth-login" href="/login/student">Masuk</a><a class="auth-util__btn inverse inverse--picton" aria-current="false" data-test-id="menu-auth-register" href="/register">Daftar</a></div>
