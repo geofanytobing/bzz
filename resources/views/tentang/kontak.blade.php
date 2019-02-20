@@ -7,7 +7,7 @@
                 </section>
                 <div class="general-page__nav">
                     <div class="container general-page__nav_container">
-                        <nav class="general-page__nav_inner"><a class="general-page__nav_link" aria-current="false" href="{{asset('tentang/tentang')}}">Tentang Ruangguru</a><a class="general-page__nav_link active" aria-current="true" href="{{asset('tentang/kontak')}}">Kontak Kami</a></nav>
+                        <nav class="general-page__nav_inner"><a class="general-page__nav_link" aria-current="false" href="{{asset('tentang/index')}}">Tentang Ruangguru</a><a class="general-page__nav_link active" aria-current="true" href="{{asset('tentang/kontak')}}">Kontak Kami</a></nav>
                     </div>
                 </div>
                 <section class="general-page__section general-page__section_header">

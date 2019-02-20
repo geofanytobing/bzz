@@ -32,7 +32,7 @@
                             <a href="{{url('produk')}}" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">Produk Kami</a>
                          
                            <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">ruangbaca</a>
-                          <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">Sewa Cewe</a>
+                          <a href="#" class="site-header__nav_list_item" target="_blank" rel="noopener noreferrer">dddddd</a>
                          
                            <a class="site-header__nav_list_item" aria-current="false" href="/help/student">Bantuan</a>
                         </div>

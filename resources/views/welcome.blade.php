@@ -40,8 +40,8 @@
                         <div class="home_ruangbelajar-desktop__main-content">
                            <div><img src="{{asset('images/qwerty.svg')}}" alt="ruangbelajar for Desktop" class="home_ruangbelajar-desktop__label"/></div>
                            <div class="home_ruangbelajar-desktop__line"></div>
-                           <div class="home_ruangbelajar-desktop__title">Akses ruangbelajar jadi lebih nyaman</div>
-                           <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu-tunggu kini sudah hadir! Gunakan ruangbelajar di PC atau laptop kamu. Belajar kini lebih nyaman dengan layar yang lebih besar.</div>
+                           <div class="home_ruangbelajar-desktop__title">CAPSTONE INDONESIA</div>
+                           <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu-tunggu kini sudah hadir! Capstone Indonesia telah hadir untuk anda yang ingin membuat Aplikasi.<b> AYO BURUAN !!</b></div>
                            <a class="home_ruangbelajar-desktop__lading-page-link" href="/belajar_desktop">
                               Pelajari Selengkapnya
                               <svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" ize="12px" style="vertical-align:middle">
@@ -61,10 +61,11 @@
                         <div class="whats__section-wrapper">
                            <div class="whats__phone-img"><img src="{{asset('images/hpanjng.png')}}" alt="Ruangguru Aplikasi Belajar Untuk Siswa SD, SMP, dan SMA!"/></div>
                            <div class="whats__side-wrapper">
-                              <h1 class="whats__title">Aplikasi Belajar Untuk Siswa SD, SMP, dan SMA!</h1>
+                              <h1 class="whats__title">Sebuah Perusahaan Yang Mengedepankan Permintaan Client</h1>
                               <div class="whats__line"></div>
                               <div class="whats__description">
-                                 Ruangguru adalah <b>aplikasi belajar</b> dengan solusi belajar terlengkap untuk segala kesulitan belajar kamu. Konten tersedia untuk berbagai jenjang mulai dari SD, SMP dan SMA sesuai dengan kurikulum nasional dan dirancang khusus oleh pengajar terbaik dan berpengalaman (Master Teacher). Mulai dari<!-- --> <b>nonton video, latihan soal, les privat, tryout</b> semua bisa diakses dari smartphone kamu!
+                                 CapstoneIndonesia adalah <b>Sebuah Jasa Pembuatan Aplikasi</b>
+                                 Terlengkap dan Terpercaya. dengan jasa pembuatan apliaksi jual beli, organisasi dan lainnya.
                               </div>
                               <div class="btn whats__btn whats__download-btn">DOWNLOAD GRATIS</div>
                            </div>
@@ -80,7 +81,7 @@
                      <div class="achivement__container-main">
                         <div src="https://ruangguru.imgix.net/png/map-indonesia.png?auto=enhance%2Cformat%2Ccompress&amp;" class="achivement__map-indonesia" placeholder="" style="background-image:url('images/map-indonesia(NEW).png')">
                            <div class="container achivement__container">
-                              <div class="achivement__label" id="achivement_label">Ruangguru telah dipercaya oleh pemerintah <br/>daerah di seluruh Indonesia</div>
+                              <div class="achivement__label" id="achivement_label">Capstone Indonesia telah dipercaya oleh pemerintah <br/>daerah di seluruh Indonesia</div>
                            </div>
                         </div>
                         <div class="achivement__goverment">
@@ -97,7 +98,7 @@
                            <div class="container achivement__container">
                               <div class="achivement__student--background" placeholder="">
                                  <div class="achivement__student--label">
-                                    Ruangguru telah membantu <br/>lebih dari 6.000.000 murid<!-- --> <br/>dalam kegiatan belajar
+                                    Capstone Indonesia telah membantu <br/>lebih dari 6.000.000 Client<!-- --> <br/>dalam kegiatan Jual Beli,<br> Organisasi Dan lainnya.
                                  </div>
                               </div>
                            </div>
@@ -105,7 +106,9 @@
                         <div class="achivement__universitas">
                            <div class="container achivement__container">
                               <div class="achivement__universitas--text">
-                                 Materi sesuai kurikulum nasional dan disiapkan oleh Master<!-- --> <br/>Teacher, pengajar-pengajar berpengalaman dan terbaik lulusan<br/>universitas-universitas top Indonesia dan luar negeri.
+                                 Permintaan Aplikasi Sesusai dengan Permintaan Client <br>
+                                 Programmer yang handal dan berpengalaman dalam membuat aplikasi <br>
+                                 Serta sudah dipercaya oleh pemerintah diseluruh Indnesiai.
                               </div>
                               <div class="achivement__universitas--logo">
                                  <div class="achivement__universitas--logo-wrap"><img src="{{asset('images/ui-logo(NEW)@3x.png')}}" alt="logo UI"/></div>
@@ -118,7 +121,7 @@
                         </div>
                         <div class="achivement__awards">
                            <div class="container achivement__container">
-                              <div class="achivement__awards--label">Ruangguru telah menerima berbagai penghargaan dari lembaga ternama</div>
+                              <div class="achivement__awards--label">Capstone Indonesia telah menerima berbagai penghargaan dari lembaga ternama</div>
                               <div class="achivement__awards--image" placeholder=""></div>
                            </div>
                         </div>
