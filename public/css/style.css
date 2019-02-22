@@ -7877,7 +7877,7 @@
 }
 .take-photo{
     display:block;
-    background:#f8813c;
+    background:#fff;
     padding-top:70px;
     height:auto;
     position:relative
@@ -8172,7 +8172,7 @@
 }
 .help-learn{
     display:block;
-    background:#f8813c;
+    background:#fff;
     padding-top:70px;
     height:auto;
     position:relative
@@ -17277,7 +17277,7 @@ body,html{
 }
 body{
     color:#333;
-    background:#f8813c;
+    background:#fff;
     letter-spacing:.5px
 }
 h1,h2,h3,h4,h5,h6{
