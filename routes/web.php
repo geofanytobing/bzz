@@ -37,9 +37,7 @@ Route::get('produk',function
 Route::get('login',function(){
 	return view('login');
 });
-Route::get('guru',function(){
-	return view('guru');
-});
+
 Route::geT('daftar',function(){
 	return view('daftar');
 });
