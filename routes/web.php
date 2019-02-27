@@ -34,3 +34,12 @@ Route::get('produk',function
 	(){
 		return view('produk');
 	});
+Route::get('login',function(){
+	return view('login');
+});
+Route::get('guru',function(){
+	return view('guru');
+});
+Route::geT('daftar',function(){
+	return view('daftar');
+});
