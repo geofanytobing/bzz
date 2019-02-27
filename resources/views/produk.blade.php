@@ -24,11 +24,11 @@
                         </div>
                         <div class="container take-photo__container">
                             <div class="take-photo__left">
-                                <div class="take-photo__icon-assets"><img src="https://ruangguru.imgix.net/svg/ruanglesonline_icon-ask-1.svg?w=72&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></div><span class="take-photo__title">1. Foto soal yang tidak kamu mengerti</span>
+                                <div class="take-photo__icon-assets"><img src="{{asset('images/Untitled-1 (2).png')}}" alt="" /></div><span class="take-photo__title">1. Foto soal yang tidak kamu mengerti</span>
                                 <div class="take-photo__line"></div><span class="take-photo__title-desc">Foto soal yang ingin kamu bahas bersama, lalu tuliskan pertanyaan yang ingin kamu pahami.</span>
                             </div>
                             <div class="take-photo__right">
-                                <div class="take-photo__assets-image"><img src="https://ruangguru.imgix.net/png/ruanglesonline_assets-phone-1.png?w=372&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></div>
+                                <div class="take-photo__assets-image"><img src="{{asset('images/ruanglesonline_assets-phone-1(NEW).png')}}" alt="" /></div>
                             </div>
                         </div>
                     </div>
@@ -36,12 +36,12 @@
                 <section class="ruanglesonline__section-connect-with-teacher">
                     <div class="connect-with-teacher"><img class="connect-with-teacher__banner-piece-1" src="https://ruangguru.imgix.net/svg/ruanglesonline_banner-piece-5.svg?w=514&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /><img class="connect-with-teacher__banner-piece-2" src="https://ruangguru.imgix.net/svg/ruanglesonline_banner-piece-6.svg?w=421&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" />
                         <div class="container connect-with-teacher__container">
-                            <div class="connect-with-teacher__ask-tutor-left"><img class="connect-with-teacher__image-ask" alt="" src="https://ruangguru.imgix.net/png/ruanglesonline_assets-phone-2.png?w=384&amp;auto=enhance%2Cformat%2Ccompress&amp;" /></div>
+                            <div class="connect-with-teacher__ask-tutor-left"><img class="connect-with-teacher__image-ask" alt="" src="{{asset('images/lokon.png')}}" /></div>
                             <div class="connect-with-teacher__ask-tutor-right">
-                                <div class="connect-with-teacher__icon-assets"><img alt="" class="connect-with-teacher__icon-tutor" src="https://ruangguru.imgix.net/svg/ruanglesonline_icon-ask-2.svg?w=73&amp;auto=enhance%2Cformat%2Ccompress&amp;" /></div><span class="connect-with-teacher__title">2. Langsung terhubung dengan tutor-tutor terbaik kami</span>
+                                <div class="connect-with-teacher__icon-assets"><img alt="" class="connect-with-teacher__icon-tutor" src="{{asset('images/Untitled-2.png')}}" /></div><span class="connect-with-teacher__title">2. Langsung terhubung dengan tutor-tutor terbaik kami</span>
                                 <div class="connect-with-teacher__line"></div><span class="connect-with-teacher__ask-tutor-desk">Dalam waktu kurang dari 3 menit, kamu akan langsung terhubung dengan tutor ruanglesonline</span>
                             </div>
-                            <div class="connect-with-teacher__ask-tutor"><img class="connect-with-teacher__image-ask" alt="" src="https://ruangguru.imgix.net/png/ruanglesonline_assets-phone-2.png?w=384&amp;auto=enhance%2Cformat%2Ccompress&amp;" /></div>
+                            <div class="connect-with-teacher__ask-tutor"><img class="connect-with-teacher__image-ask" alt="" src="{{asset('images/lokon.png')}}" /></div>
                         </div>
                     </div>
                 </section>
@@ -49,11 +49,11 @@
                     <div class="help-learn"><img class="help-learn__banner-piece-1" src="https://ruangguru.imgix.net/svg/ruanglesonline_banner-piece-1.svg?w=600&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /><img class="help-learn__banner-piece-2" src="https://ruangguru.imgix.net/svg/ruanglesonline_banner-piece-2.svg?w=452&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /><img class="help-learn__banner-piece-3" src="https://ruangguru.imgix.net/svg/ruanglesonline_banner-piece-9.svg?w=183&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /><img class="help-learn__banner-piece-4" src="https://ruangguru.imgix.net/svg/ruanglesonline_banner-piece-10.svg?w=547&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" />
                         <div class="container help-learn__container">
                             <div class="help-learn__left">
-                                <div class="help-learn__icon-assets"><img src="https://ruangguru.imgix.net/svg/ruanglesonline_icon-ask-3.svg?w=72&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></div><span class="help-learn__title">3. Tutor kami akan bantu belajar via chat</span>
+                                <div class="help-learn__icon-assets"><img src="{{asset('images/Untitled-1 (3).png')}}" alt="" /></div><span class="help-learn__title">3. Tutor kami akan bantu belajar via chat</span>
                                 <div class="help-learn__line"></div><span class="help-learn__title-desc">Tanyakan soal dan dapatkan solusinya melalui live chat sepuasnya selama 30 menit.</span>
                             </div>
                             <div class="help-learn__right">
-                                <div class="take-photo__assets-image"><img src="https://ruangguru.imgix.net/png/ruanglesonline_assets-phone-3-edit.png?w=466&amp;auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></div>
+                                <div class="take-photo__assets-image"><img src="{{asset('images/ruanglesonline_assets-phone-2(NEW).png')}}" alt="" /></div>
                             </div>
                         </div>
                     </div>

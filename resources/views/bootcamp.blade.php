@@ -1,6 +1,6 @@
 @extends('layouts.user')
 @section('content')
-<section style="background-image:url(https://ruangguru.imgix.net/svg/global_bg-patterns.svg?auto=enhance%2Cformat%2Ccompress&amp;);background-color:#ed2643;overflow:hidden;background-repeat:no-repeat;background-size:cover">
+<section style="background-image:url(https://ruangguru.imgix.net/svg/global_bg-patterns.svg?auto=enhance%2Cformat%2Ccompress&amp;);background-color:#9a4a0d;overflow:hidden;background-repeat:no-repeat;background-size:cover">
     <div class="container ruangbelajar__container ruangbelajar__container--banner">
         <div class="ruangbelajar__banner__left">
             <div class="ruangbelajar__banner__logo"><img src="https://ruangguru.imgix.net/svg/rubel__logo.svg?auto=enhance%2Cformat%2Ccompress&amp;" alt="" /></div>
