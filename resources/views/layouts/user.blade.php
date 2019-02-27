@@ -32,7 +32,7 @@
                             <a href="{{url('produk')}}" class="site-header__nav_list_item" rel="noopener noreferrer">Produk Kami</a>
                          
                            <a href="#" class="site-header__nav_list_item"  rel="noopener noreferrer">ruangbaca</a>
-                          <a href="#" class="site-header__nav_list_item"  rel="noopener noreferrer">dddddd</a>
+                          <a href="{{url('bootcamp')}}" class="site-header__nav_list_item"  rel="noopener noreferrer">dddddd</a>
                          
                            <a class="site-header__nav_list_item" aria-current="false" href="{{url('murid')}}">Bantuan</a>
                         </div>

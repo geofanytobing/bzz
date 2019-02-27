@@ -41,3 +41,6 @@ Route::get('login',function(){
 Route::geT('daftar',function(){
 	return view('daftar');
 });
+Route::get('bootcamp',function(){
+	return view('bootcamp');
+});
