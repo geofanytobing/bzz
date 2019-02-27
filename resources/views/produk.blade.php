@@ -28,7 +28,7 @@
                                 <div class="take-photo__line"></div><span class="take-photo__title-desc">Foto soal yang ingin kamu bahas bersama, lalu tuliskan pertanyaan yang ingin kamu pahami.</span>
                             </div>
                             <div class="take-photo__right">
-                                <div class="take-photo__assets-image"><img src="{{asset('images/ruanglesonline_assets-phone-1(NEW).png')}}" alt="" /></div>
+                                <div class="take-photo__assets-image"><img src="{{asset('images/ruanglesonline_assets-phone-1(REVISI).png')}}" alt="" /></div>
                             </div>
                         </div>
                     </div>
