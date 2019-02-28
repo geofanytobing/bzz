@@ -11,7 +11,7 @@
                                 <div class="ruanglesonline__logo"><img src="{{asset('images/preview-ruanglesonline-logo(PNG).png')}}" alt="logo ruang les online" /></div><span class="ruanglesonline-main-banner__title">#UsahaJadiMenarik</span><span class="ruanglesonline-main-banner__description">Capstone akan membantu anda memiliki website</span><span class="ruanglesonline-main-banner__download-text">Download Aplikasinya Sekarang!</span>
                                 <div class="app-badges"><a href="https://play.google.com/store/apps/details?id=com.ruangguru.livestudents&amp;hl=in" class="app-badges__item"><img src="https://ruangguru.imgix.net/png/badge-google-play.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="google play" /></a><a href="https://itunes.apple.com/id/app/ruangguru-solusi-belajar/id1099742206?l=id&amp;mt=8" class="app-badges__item"><img src="https://ruangguru.imgix.net/png/badge-app-store.png?auto=enhance%2Cformat%2Ccompress&amp;" alt="app store" /></a></div>
                             </div>
-                            <div><img src="{{asset('images/ruanglesonline__intro-banner-iqbal(NEW) (1).png')}}" alt="" /></div>
+                            <div><img src="{{asset('images/LOKON4.png')}}" alt="" /></div>
                         </div>
                     </div>
                 </section>
@@ -61,10 +61,10 @@
                 <section class="ruanglesonline__section-ask-tutor">
                     <div class="ask-tutor-price">
                         <div class="container ask-tutor-price__container"><img class="ask-tutor-price__image-ask" alt="" src="{{asset('images/ruanglesonline_image-ask-tutor-price(REVISI).png')}}" />
-                            <div class="ask-tutor-price__ask-tutor-right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" class="ask-tutor-price__icon-tutor" src="https://ruangguru.imgix.net/png/ruanglesonline_icon-ask-tutor-price.png?w=119&amp;h=69&amp;auto=enhance%2Cformat%2Ccompress&amp;" />
-                                <p class="ask-tutor-price__ask-tutor-desk" style="margin-left: 100px;">Tanya jawab sepuasnya dengan oprator kami,jika ingin mengetahui lebih detail tetang web kami.</p>
+                            <div class="ask-tutor-price__ask-tutor-right"><img alt="" class="ask-tutor-price__icon-tutor" src="{{asset('images/ANDROID2.png')}}" />
+                                <p class="ask-tutor-price__ask-tutor-desk">Kami Menawarkan Pelayanan Yang Terbaik Untuk Anda.</p>
                             </div>
-                            <div class="ask-tutor-price__ask-tutor"><img class="ask-tutor-price__image-ask-mob" alt="" src="https://ruangguru.imgix.net/png/ruanglesonline_image-ask-tutor-price-mob.png?w=263&amp;auto=enhance%2Cformat%2Ccompress&amp;" /></div>
+                            <div class="ask-tutor-price__ask-tutor"><img class="ask-tutor-price__image-ask-mob" alt="" src="{{asset('images/ANDROID.png')}}" /></div>
                         </div>
                     </div>
                 </section>
