@@ -60,9 +60,9 @@
                 </section>
                 <section class="ruanglesonline__section-ask-tutor">
                     <div class="ask-tutor-price">
-                        <div class="container ask-tutor-price__container"><img class="ask-tutor-price__image-ask" alt="" src="https://ruangguru.imgix.net/png/ruanglesonline_image-ask-tutor-price.png?w=610&amp;auto=enhance%2Cformat%2Ccompress&amp;" />
-                            <div class="ask-tutor-price__ask-tutor-right"><img alt="" class="ask-tutor-price__icon-tutor" src="https://ruangguru.imgix.net/png/ruanglesonline_icon-ask-tutor-price.png?w=119&amp;h=69&amp;auto=enhance%2Cformat%2Ccompress&amp;" />
-                                <p class="ask-tutor-price__ask-tutor-desk">Tanya jawab sepuasnya selama 30 menit dengan tutor terbaik kami, hanya Rp 20.000</p>
+                        <div class="container ask-tutor-price__container"><img class="ask-tutor-price__image-ask" alt="" src="{{asset('images/ruanglesonline_image-ask-tutor-price(REVISI).png')}}" />
+                            <div class="ask-tutor-price__ask-tutor-right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" class="ask-tutor-price__icon-tutor" src="https://ruangguru.imgix.net/png/ruanglesonline_icon-ask-tutor-price.png?w=119&amp;h=69&amp;auto=enhance%2Cformat%2Ccompress&amp;" />
+                                <p class="ask-tutor-price__ask-tutor-desk" style="margin-left: 100px;">Tanya jawab sepuasnya dengan oprator kami,jika ingin mengetahui lebih detail tetang web kami.</p>
                             </div>
                             <div class="ask-tutor-price__ask-tutor"><img class="ask-tutor-price__image-ask-mob" alt="" src="https://ruangguru.imgix.net/png/ruanglesonline_image-ask-tutor-price-mob.png?w=263&amp;auto=enhance%2Cformat%2Ccompress&amp;" /></div>
                         </div>
