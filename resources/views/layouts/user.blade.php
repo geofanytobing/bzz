@@ -26,7 +26,7 @@
                      <div class="site-header__logo site-header__logo--picton">
                         <a href="/"><img style="width: 70px; height: 50px;" src="{{asset('images/capstone.png')}}"></a>
                      </div>
-                     <div class="site-header__nav site-header__nav--hide" data-test-id="nav-bar">
+                     <div class="site-header__nav site-header__nav--hide" id="side-nav">
                         <div class="site-header__nav_list">
                            <a class="site-header__nav_list_item" aria-current="false" data-test-id="menu-about-us" href="{{asset('tentang/index')}}">Tentang Kami</a>
                             <a href="{{url('produk')}}" class="site-header__nav_list_item" rel="noopener noreferrer">Produk Kami</a>
@@ -45,7 +45,7 @@
                      <div class="auth-util site-header__auth-util">
                         <div class="auth-util__inner"><a class="auth-util__btn versa auth-util__btn--picton versa--picton" aria-current="false" data-test-id="menu-auth-login" href="{{url('login')}}">Masuk</a><a class="auth-util__btn inverse inverse--picton" aria-current="false" data-test-id="menu-auth-register" href="{{url('daftar')}}">Daftar</a></div>
                      </div>
-                     <button type="button" class="btn btn--transparent site-header__menu-btn" data-theme="transparent" data-test-id="menu-hamburger-button">
+                     <button type="button" class="btn btn--transparent site-header__menu-btn" data-theme="transparent" data-test-id="menu-hamburger-button" >
                         <canvas class="ink" style="border-radius:inherit;height:100%;left:0;position:absolute;top:0;width:100%" height="0" width="0"></canvas>
                         <span class="isvg pending site-header__bars site-header__bars--picton"></span>
                      </button>
@@ -147,8 +147,8 @@
             </footer>
          </div>
       </div>
-      <script type="text/javascript" src="{{asset('css/js.js')}}"></script><script src="/static/js/7.a8840dfe.chunk.js"></script>
-       <script type="text/javascript" src="{{asset('css/jquery.js')}}"></script><script src="/static/js/7.a8840dfe.chunk.js"></script>
+      <script type="text/javascript" src="{{asset('css/js.js')}}"></script>
+       <script type="text/javascript" src="{{asset('css/jquery.js')}}"></script>
        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
    </body>
 </html>

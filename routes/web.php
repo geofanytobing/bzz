@@ -44,3 +44,10 @@ Route::geT('daftar',function(){
 Route::get('bootcamp',function(){
 	return view('bootcamp');
 });
+Route::get('/admin',function(){
+	return view('Admin.index');
+});
+Route::get('/admin/profile',function(){
+	return view('Admin.profile');
+});
+Route::get('/pesan', 'TesController@pesan');
