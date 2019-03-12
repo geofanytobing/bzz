@@ -1529,7 +1529,7 @@
 .slide-banner .slick-dots li.slick-active{
     background-color:#f89825
 }
-.home_ruangbelajar-desktop__container{
+.home_capstone-desktop__container{
     display:-ms-flexbox;
     display:flex;
     display:-moz-flex;
@@ -1539,13 +1539,13 @@
     -moz-flex-direction:column
 }
 @media (min-width:1024px){
-    .home_ruangbelajar-desktop__container{
+    .home_capstone-desktop__container{
         -ms-flex-direction:row;
         flex-direction:row;
         -moz-flex-direction:row
     }
 }
-.home_ruangbelajar-desktop__main-content{
+.home_capstone-desktop__main-content{
     display:-ms-flexbox;
     display:flex;
     display:-moz-flex;
@@ -1557,18 +1557,18 @@
     align-items:center
 }
 @media (min-width:1024px){
-    .home_ruangbelajar-desktop__main-content{
+    .home_capstone-desktop__main-content{
         -ms-flex:1 1;
         flex:1 1;
         -ms-flex-align:start;
         align-items:flex-start
     }
 }
-.home_ruangbelajar-desktop__label{
+.home_capstone-desktop__label{
     padding:0 12px
 }
 @media (min-width:1024px){
-    .home_ruangbelajar-desktop__label{
+    .home_capstone-desktop__label{
         padding:0;
         height:42px
     }
@@ -1609,7 +1609,7 @@
         margin-bottom:94px
     }
 }
-.home_ruangbelajar-desktop__lading-page-link{
+.home_capstone-desktop__lading-page-link{
     margin-bottom:32px;
     font-size:22px;
     font-weight:600;
@@ -1619,7 +1619,7 @@
     text-decoration:underline
 }
 @media (min-width:1024px){
-    .home_ruangbelajar-desktop__lading-page-link{
+    .home_capstone-desktop__lading-page-link{
         margin-bottom:40px
     }
 }
@@ -2561,7 +2561,7 @@
     .achivement__student--label{
         position:relative;
         top:169px;
-        font-size:32px
+        font-size:28px
     }
 }
 @media screen and (max-width:918px) and (min-width:767px){

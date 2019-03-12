@@ -277,13 +277,13 @@ function showSlides() {
 
 @section('capstonefordigitalera')
 
-      <div class="container home_ruangbelajar-desktop__container">
-         <div class="home_ruangbelajar-desktop__main-content">
-            <div><img src="{{asset('images/qwerty.svg')}}" alt="ruangbelajar for Desktop" class="home_ruangbelajar-desktop__label"/></div>
+      <div class="container home_capstone-desktop__container">
+         <div class="home_capstone-desktop__main-content">
+            <div><img src="{{asset('images/qwerty.png')}}" class="home_capstone-desktop__label"/></div>
             <div class="home_ruangbelajar-desktop__line"></div>
             <div class="home_ruangbelajar-desktop__title">CAPSTONE INDONESIA</div>
             <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu-tunggu kini sudah hadir! Capstone Indonesia telah hadir untuk anda yang ingin membuat Aplikasi.<b> AYO BURUAN !!</b></div>
-            <a class="home_ruangbelajar-desktop__lading-page-link" href="/belajar_desktop">
+            <a class="home_capstone-desktop__lading-page-link" href="/belajar_desktop">
                Pelajari Selengkapnya
                <svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" ize="12px" style="vertical-align:middle">
                   <g>
