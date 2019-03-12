@@ -2550,7 +2550,7 @@
 }
 .achivement__student--label{
     text-align:center;
-    font-size:24px;
+    font-size:17px;
     font-weight:400;
     color:#2eb5c0;
     padding:24px 0;
@@ -2561,7 +2561,7 @@
     .achivement__student--label{
         position:relative;
         top:169px;
-        font-size:28px
+        font-size:20px
     }
 }
 @media screen and (max-width:918px) and (min-width:767px){

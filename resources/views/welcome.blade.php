@@ -63,9 +63,9 @@ nav {
    display: hidden;
    width: 40px;
    height: 40px;
-   background: #9a4a0d url("../images/menu1.png") center;
+   background: #9a4a0d url("../images/menu1.png");
    background-size: cover;
-   margin-left: 10px;
+   margin-left: 302px;
 }
 
 a:hover#menu-icon {
@@ -223,16 +223,16 @@ f
   <div class="slideshow-container">
 
     <div class="mySlides fade">
-      <img src="{{asset('images/capstone.jpeg')}}" style="width:100%; height: 80vh;">
+      <img src="{{asset('images/kerja1.jpg')}}" style="width:100%; height: 80vh;">
      
     </div>
 
     <div class="mySlides fade">
-      <img src="{{asset('images/lokon.png')}}" style="width:100% ;height:80vh;">
+      <img src="{{asset('images/kerja2.jpeg')}}" style="width:100% ;height:80vh;">
      
     </div>
     <div class="mySlides fade">
-      <img src="{{asset('images/lokon.png')}}" style="width:100% ;height:80vh;">
+      <img src="{{asset('images/kerja3.jpg')}}" style="width:100% ;height:80vh;">
      
     </div>
     <div class="mySlides fade">
@@ -267,7 +267,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000);
+  setTimeout(showSlides, 6000);
 }
     </script>
 
@@ -282,7 +282,7 @@ function showSlides() {
             <div><img src="{{asset('images/qwerty.png')}}" class="home_capstone-desktop__label"/></div>
             <div class="home_ruangbelajar-desktop__line"></div>
             <div class="home_ruangbelajar-desktop__title">CAPSTONE INDONESIA</div>
-            <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu-tunggu kini sudah hadir! Capstone Indonesia telah hadir untuk anda yang ingin membuat Aplikasi.<b> AYO BURUAN !!</b></div>
+            <div class="home_ruangbelajar-desktop__body">Fitur yang ditunggu kini sudah hadir! Capstone Indonesia telah hadir untuk anda lulusan SMK yang saat ini masih belum bekerja.<b>AYO BURUAN DI CEK WEB INI !!!</b></div>
             <a class="home_capstone-desktop__lading-page-link" href="/belajar_desktop">
                Pelajari Selengkapnya
                <svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" ize="12px" style="vertical-align:middle">
@@ -302,11 +302,11 @@ function showSlides() {
          <div class="whats__section-wrapper">
             <div class="whats__phone-img"><img src="{{asset('images/hpanjng.png')}}" alt="Ruangguru Aplikasi Belajar Untuk Siswa SD, SMP, dan SMA!"/></div>
             <div class="whats__side-wrapper">
-               <h1 class="whats__title">Sebuah Perusahaan Yang Mengedepankan Permintaan Client</h1>
+               <h1 class="whats__title">Sebuah Perusahaan Yang Mengedepankan Angka Penganguran di Indonesia, teritama penganguran lulusan SMK agar memperoleh pekerjaan sesuai bidang keahlian nya.</h1>
                <div class="whats__line"></div>
                <div class="whats__description">
-                  CapstoneIndonesia adalah <b>Sebuah Jasa Pembuatan Aplikasi</b>
-                  Terlengkap dan Terpercaya. dengan jasa pembuatan apliaksi jual beli, organisasi dan lainnya.
+                  CapstoneIndonesia adalah <b> sebuah website terobasan baru dalam mencari pekerjaan</b>
+                  bagi para lulusan baru SMK sederajat. Website akan menjadi penghubung antara lulusan SMK yang ingin bekerja dengan sebuah istansi atau perusahaan, sehingga akan lebih menguntungkan bagi lulusan SMK sederajat
                </div>
                <div class="btn whats__btn whats__download-btn">DOWNLOAD GRATIS</div>
             </div>
@@ -341,7 +341,7 @@ function showSlides() {
             <div class="container achivement__container">
                <div class="achivement__student--background" placeholder="">
                   <div class="achivement__student--label">
-                     Capstone Indonesia telah membantu <br/>lebih dari 6.000.000 Client<br/>dalam kegiatan Jual Beli,<br> Organisasi Dan lainnya.
+                     Capstone Indonesia ingin membantu <br/>Mengurangi Angka Pengangguran DiIndonesia<br/>Terutama untuk lulusan SMK Yang kurangan nya informasi <br/>  untuk mendapatkan lowongan kerja.<br>Dengan Web Ini pengguna akan mudah  <br/>  mendapatkan pekerjaan.
                   </div>
                </div>
             </div>
