@@ -33,7 +33,7 @@ header {
    top: 0;
    left: 0;  
    z-index: 100;
-      align-items: center;
+   align-items: center;
 
 
 }
@@ -63,9 +63,9 @@ nav {
    display: hidden;
    width: 40px;
    height: 40px;
-   background: #9a4a0d url("../images/menu1.png");
+   background: #9a4a0d url("../images/menu1.png") center;
    background-size: cover;
-   margin-left: 302px;
+   margin-left: 10px;
 }
 
 a:hover#menu-icon {
@@ -108,6 +108,11 @@ li {
    #menu-icon {
 
       display:inline-block;
+        position: absolute;
+      margin-top: -12%;
+      margin-left: 85%;
+
+      align-items: center;
 
    }
 
